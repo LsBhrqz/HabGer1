@@ -1,0 +1,57 @@
+\documentclass[onecolumn]{article} %Este comando fabrica por defecto el tipo de documento, en este caso un artículo, en el formato de dos columnas
+\usepackage[spanish]{babel}
+\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry} %Esto es para ponerle los márgenes, puedes hacerlo más grande o más chico
+\usepackage{fancyhdr} %no borres esto, es para estilizar el encabezado y el pie de página
+\usepackage{graphicx} %este es para adjuntar imágenes
+\usepackage{float}
+\usepackage{subfig} 
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage{svg}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
+
+% Configuración del encabezado solo en la primera página
+\fancypagestyle{firstpage}{
+	\pagestyle{fancy} 
+	\fancyhead{}
+	\fancyhead[L]{\textbf{Universidad de Antioquia}} % Fecha en la esquina izquierda
+	\fancyhead[R]{\textbf{\today}} % Nombre de la institución en la derecha
+	\fancyfoot[C]{\thepage} % Número de página centrado
+}
+
+\begin{document}
+	
+	\title{\textbf{Tercer Proyecto: Interpolación y Optimización.}}
+	
+	\author{
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\textbf{David Alejandro Morón Acacio}\\
+			Facultad de ingeniería\\
+			\texttt{david.moron@udea.edu.co}
+		\end{minipage}
+		\begin{minipage}{0.5\textwidth}
+			\centering
+			\textbf{Luisa María Bohórquez Ardila}\\
+			Facultad de ingeniería\\
+			\texttt{luisam.bohorqueza@udea.edu.co}
+		\end{minipage}
+	}
+	
+	\date{} %este comando es necesario para borrar la fecha que maketitle pone por defecto
+	
+	\maketitle
+	
+	\thispagestyle{firstpage}
+	
+	\section{Primer problema: Interpolación}
+	
+	
+	\subsection{Links de la sustentación}
+	\begin{itemize}
+		\item \href{https://youtu.be/NC_RUi-yczg}{Vídeo del primer problema}
+		\item \href{https://youtu.be/fbPozXanZco}{Vídeo del segundo problema}
+	\end{itemize}
+	
+	
+\end{document}
