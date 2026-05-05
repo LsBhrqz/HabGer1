@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  4 MAY 2026 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  4 MAY 2026 19:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -647,7 +647,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 }
 
 ] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 []\OT1/cmr/m/n/10 https://www.epssura.com/embarazo-menuparalasmamas-229/pregunt
 as-frecuentes-durante-el-embarazo-
  []
@@ -666,7 +666,7 @@ Package rerunfilecheck Info: File `Habito7.out' has not changed.
 Here is how much of TeX's memory you used:
  15332 strings out of 474486
  265507 string characters out of 5738526
- 1939542 words of memory out of 5000000
+ 1940542 words of memory out of 5000000
  37344 multiletter control sequences out of 15000+600000
  564709 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -678,7 +678,7 @@ cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Luisa Bo
 hórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmtt12.pfb>
-Output written on Habito7.pdf (4 pages, 104631 bytes).
+Output written on Habito7.pdf (4 pages, 105079 bytes).
 PDF statistics:
  192 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
