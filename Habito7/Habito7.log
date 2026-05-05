@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  16 APR 2026 18:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  4 MAY 2026 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Act2.tex
-(Act2.tex
+**./Habito7.tex
+(Habito7.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 
@@ -522,11 +522,11 @@ backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count298
 \l__pdf_internal_box=\box55
-) (Act2.aux
+) (Habito7.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
-\openout1 = `Act2.aux'.
+\openout1 = `Habito7.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -626,9 +626,9 @@ Package gensymb Info: Using \Omega for \ohm on input line 22.
 Package gensymb Warning: Not defining \micro.
 
 Package hyperref Info: Link coloring ON on input line 22.
-(Act2.out) (Act2.out)
+(Habito7.out) (Habito7.out)
 \@outlinefile=\write4
-\openout4 = `Act2.out'.
+\openout4 = `Habito7.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
 
@@ -643,109 +643,16 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 (C:\Users\Luisa Bohórquez\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
 b.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-Package svg Info: Last page of `./svg-inkscape/Organigrama_svg-tex.pdf' is 1 on
- input line 68.
-(svg-inkscape/Organigrama_svg-tex.pdf_tex
-<./svg-inkscape/Organigrama_svg-tex.pdf, id=59, page=1, 1324.95pt x 1023.825pt>
-
-File: ./svg-inkscape/Organigrama_svg-tex.pdf Graphic file (type pdf)
-<use ./svg-inkscape/Organigrama_svg-tex.pdf, page 1>
-Package pdftex.def Info: ./svg-inkscape/Organigrama_svg-tex.pdf , page1 used on
- input line 56.
-(pdftex.def)             Requested size: 500.484pt x 386.72981pt.
 ) [1{C:/Users/Luisa Bohórquez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
 }
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-
- []
-
-[2 <./svg-inkscape/Organigrama_svg-tex.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-Package svg Info: Last page of `./svg-inkscape/MapaDeProcesos_svg-tex.pdf' is 1
- on input line 91.
-(svg-inkscape/MapaDeProcesos_svg-tex.pdf_tex
-<./svg-inkscape/MapaDeProcesos_svg-tex.pdf, id=349, page=1, 821.31844pt x 241.6
-5282pt>
-File: ./svg-inkscape/MapaDeProcesos_svg-tex.pdf Graphic file (type pdf)
-<use ./svg-inkscape/MapaDeProcesos_svg-tex.pdf, page 1>
-Package pdftex.def Info: ./svg-inkscape/MapaDeProcesos_svg-tex.pdf , page1 used
- on input line 56.
-(pdftex.def)             Requested size: 500.484pt x 147.25313pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
-
- []
-
-[3 <./svg-inkscape/MapaDeProcesos_svg-tex.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 122.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 122.
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
-
- []
-
-[5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 []\OT1/cmr/m/n/10 https://www.epssura.com/embarazo-menuparalasmamas-229/pregunt
 as-frecuentes-durante-el-embarazo-
  []
 
-[7] (Act2.aux
+[4] (Habito7.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -753,17 +660,17 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `Act2.out' has not changed.
-(rerunfilecheck)             Checksum: 72A35C0E749BEA0119E16156D492954E;2079.
+Package rerunfilecheck Info: File `Habito7.out' has not changed.
+(rerunfilecheck)             Checksum: 9990C8BADCB7825A5D8BCAB22BB25CDC;7487.
  ) 
 Here is how much of TeX's memory you used:
- 15374 strings out of 474486
- 267274 string characters out of 5738526
+ 15332 strings out of 474486
+ 265507 string characters out of 5738526
  1939542 words of memory out of 5000000
- 37387 multiletter control sequences out of 15000+600000
- 566408 words of font info for 69 fonts, out of 8000000 for 9000
+ 37344 multiletter control sequences out of 15000+600000
+ 564709 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,93p,906b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,93p,1281b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Luisa Bohórquez/AppData/Lo
@@ -771,9 +678,9 @@ cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Luisa Bo
 hórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmtt12.pfb>
-Output written on Act2.pdf (7 pages, 982784 bytes).
+Output written on Habito7.pdf (4 pages, 104631 bytes).
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 253 words of extra memory for PDF output out of 10000 (max. 10000000)
 
