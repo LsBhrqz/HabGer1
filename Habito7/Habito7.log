@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  4 MAY 2026 19:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  4 MAY 2026 21:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -643,16 +643,20 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 (C:\Users\Luisa Bohórquez\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
 b.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{C:/Users/Luisa Bohórquez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map
-}
+)
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
-] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+ []
+
+[1{C:/Users/Luisa Bohórquez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+] [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 []\OT1/cmr/m/n/10 https://www.epssura.com/embarazo-menuparalasmamas-229/pregunt
 as-frecuentes-durante-el-embarazo-
  []
 
-[4] (Habito7.aux
+[5] (Habito7.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -664,23 +668,24 @@ Package rerunfilecheck Info: File `Habito7.out' has not changed.
 (rerunfilecheck)             Checksum: 9990C8BADCB7825A5D8BCAB22BB25CDC;7487.
  ) 
 Here is how much of TeX's memory you used:
- 15332 strings out of 474486
- 265507 string characters out of 5738526
- 1940542 words of memory out of 5000000
- 37344 multiletter control sequences out of 15000+600000
+ 15337 strings out of 474486
+ 265573 string characters out of 5738526
+ 1945542 words of memory out of 5000000
+ 37348 multiletter control sequences out of 15000+600000
  564709 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,93p,1281b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,93p,1495b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Luisa Bohórquez/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Luisa Bo
 hórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmtt12.pfb>
-Output written on Habito7.pdf (4 pages, 105079 bytes).
+sfonts/cm/cmr7.pfb><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Habito7.pdf (5 pages, 121882 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
  253 words of extra memory for PDF output out of 10000 (max. 10000000)
 
