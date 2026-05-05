@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  4 MAY 2026 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.23)  4 MAY 2026 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -650,13 +650,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
 [1{C:/Users/Luisa Bohórquez/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-] [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
+] [2] [3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 []\OT1/cmr/m/n/10 https://www.epssura.com/embarazo-menuparalasmamas-229/pregunt
 as-frecuentes-durante-el-embarazo-
  []
 
-[5] (Habito7.aux
+[6] (Habito7.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -668,8 +668,8 @@ Package rerunfilecheck Info: File `Habito7.out' has not changed.
 (rerunfilecheck)             Checksum: 9990C8BADCB7825A5D8BCAB22BB25CDC;7487.
  ) 
 Here is how much of TeX's memory you used:
- 15337 strings out of 474486
- 265573 string characters out of 5738526
+ 15338 strings out of 474486
+ 265579 string characters out of 5738526
  1945542 words of memory out of 5000000
  37348 multiletter control sequences out of 15000+600000
  564709 words of font info for 61 fonts, out of 8000000 for 9000
@@ -683,9 +683,9 @@ hórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmr7.pfb><C:/Users/Luisa Bohórquez/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Habito7.pdf (5 pages, 121882 bytes).
+Output written on Habito7.pdf (6 pages, 123805 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
  253 words of extra memory for PDF output out of 10000 (max. 10000000)
 
